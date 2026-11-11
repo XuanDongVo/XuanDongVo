@@ -26,8 +26,6 @@ responsive web applications with **Next.js and TypeScript**.
 
 - Based in Ho Chi Minh City, Vietnam
 - Information Technology — Nong Lam University
-- Expected graduation: December 2026
-- Former Software Developer Intern / Fresher Developer at Globee Software & E-Commerce
 - Interested in backend architecture, database design, application security, and system integration
 
 ---
