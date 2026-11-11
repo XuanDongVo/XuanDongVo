@@ -1,176 +1,129 @@
 
 <div align="center">
 
-# Vo Xuan Dong
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:123047&height=180&section=header&text=VO%20XUAN%20DONG&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=Full-stack%20Developer%20%7C%20Java%20Backend&descAlignY=68&descSize=17" width="100%" alt="Profile Header" />
 
-### Full-stack Developer | Java Backend
+### Building reliable backend systems and modern web experiences.
 
-Building reliable backend systems and thoughtful web experiences.
-
-Based in Ho Chi Minh City, Vietnam.
-
-[LinkedIn](https://www.linkedin.com/in/dong-vo-xuan-667b10439/) ·
-[Email](mailto:voxuandong14052004@gmail.com) ·
-[GitHub](https://github.com/XuanDongVo)
+<p>
+  <a href="https://www.linkedin.com/in/dong-vo-xuan-667b10439/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:voxuandong14052004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 01 / About Me
+## About Me
 
-I'm a Full-stack Developer with a strong interest in
-backend engineering, system design, and building
-end-to-end web applications.
+I'm a **Full-stack Developer** focused on building
+backend services with **Java and Spring Boot**, and
+responsive web applications with **Next.js and TypeScript**.
 
-My primary backend stack is **Java and Spring Boot**,
-while I use **Next.js, React, and TypeScript** to
-build responsive and interactive user interfaces.
-
-- Information Technology student at **Nong Lam University**
-- Expected graduation: **December 2026**
-- Former Software Developer Intern / Fresher Developer
-  at **Globee Software & E-Commerce**
-- Interested in backend architecture, database design,
-  and scalable web applications
+- Based in Ho Chi Minh City, Vietnam
+- Information Technology — Nong Lam University
+- Expected graduation: December 2026
+- Former Software Developer Intern / Fresher Developer at Globee Software & E-Commerce
+- Interested in backend architecture, database design, application security, and system integration
 
 ---
 
-### 02 / Tech Stack
+## Tech Stack
 
-**Languages**
+### Backend Engineering
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,rabbitmq&theme=dark" alt="Backend technologies"/>
+</p>
 
-**Backend**
+**Java · Spring Boot · Spring Security · REST APIs · JWT · RabbitMQ**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white)
+### Frontend Development
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&theme=dark" alt="Frontend technologies"/>
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Next.js · React · TypeScript · JavaScript · Tailwind CSS**
 
-**Databases & Infrastructure**
+### Database & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github&theme=dark" alt="Databases and development tools"/>
+</p>
+
+**PostgreSQL · MySQL · Redis · Docker · Git · Jenkins · Flyway**
 
 ---
 
-### 03 / Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 — LearnUp
 
-#### LearnUp
+**Full-stack English Learning Platform**
 
-**Full-stack E-Learning Platform**
+An English learning application with teacher and student workflows, built with Next.js, Spring Boot, and PostgreSQL.
 
-An English learning platform with student and teacher
-workflows, interactive activities, and gamification.
-
-**Highlights**
 - Role-based authentication and authorization
-- Question banks and randomized learning activities
-- Assignments and vocabulary review with FSRS
-- XP rewards, streaks, levels, and leaderboards
-- Deployed on Railway for demonstration and testing
+- Randomized learning activities and assignments
+- FSRS-based vocabulary review
+- XP rewards, levels, streaks, and leaderboards
+- Demo deployment on Railway
 
-**Stack**
+**Stack:** `Java` `Spring Boot` `Next.js` `TypeScript` `PostgreSQL`
 
-`Java` `Spring Boot` `Next.js` `TypeScript`
-`PostgreSQL` `Spring Security`
+[View Source](https://github.com/XuanDongVo/E-Learning) · [Live Demo](https://frontend-production-c5c3.up.railway.app/)
 
-[Source Code](https://github.com/XuanDongVo/E-Learning)
-·
-[Live Demo](https://frontend-production-c5c3.up.railway.app/)
+---
 
-</td>
-<td width="50%" valign="top">
+### 02 — CliCon
 
-#### CliCon
+**Real-time E-Commerce & Auction Platform**
 
-**E-Commerce & Auction Platform**
+An e-commerce application supporting real-time auctions, payments, and asynchronous processing.
 
-A multi-role e-commerce application with real-time
-auctions, payments, and asynchronous processing.
-
-**Highlights**
-- Real-time bidding with WebSocket
-- Redis-based distributed locking
+- Real-time auction updates via WebSocket
+- Redis-based distributed locking for concurrent bids
 - Anti-sniping and automatic winner selection
-- VNPay payment and GHN shipping integration
+- VNPay payments and GHN shipping integration
 - RabbitMQ-based email notifications
 
-**Stack**
+**Stack:** `Java` `Spring Boot` `Next.js` `Redis` `RabbitMQ`
 
-`Java` `Spring Boot` `Next.js` `TypeScript`
-`MySQL` `Redis` `RabbitMQ`
+[View Source](https://github.com/XuanDongVo/CliCon)
 
-[Source Code](https://github.com/XuanDongVo/CliCon)
+---
 
-</td>
-</tr>
-</table>
+### 03 — Rental Home
 
-#### Rental Home — Property Rental Platform
+**Property Rental Management Platform**
 
-A property rental management application featuring
-geospatial search, role-based access control,
-and automated deployment.
+A property management application with geospatial search and automated deployment.
 
-**Highlights**
-- REST APIs for property and rental management
-- Location-based search with PostgreSQL and PostGIS
-- AWS Cognito authentication and AWS S3 integration
+- REST APIs and role-based access
+- PostgreSQL and PostGIS geospatial search
+- AWS Cognito authentication and AWS S3 storage
 - Docker containerization and Jenkins CI/CD
 
-**Stack**
+**Stack:** `Next.js` `Express.js` `PostgreSQL` `PostGIS` `Docker`
 
-`Next.js` `Express.js` `TypeScript` `PostgreSQL`
-`PostGIS` `Prisma` `Docker` `Jenkins`
-
-[Source Code](https://github.com/XuanDongVo/Rental-Home)
-
----
-
-### 04 / What I'm Focusing On
-
-- Building maintainable backend services with
-  Java and Spring Boot
-- Designing RESTful APIs and relational databases
-- Learning more about system architecture,
-  concurrency, and application security
-- Improving full-stack development and deployment
-  practices
-
----
-
-### 05 / Let's Connect
-
-I'm open to connecting with developers,
-sharing ideas, and exploring software
-engineering opportunities.
-
-- **Email:** [voxuandong14052004@gmail.com](mailto:voxuandong14052004@gmail.com)
-- **LinkedIn:** [Vo Xuan Dong](https://www.linkedin.com/in/dong-vo-xuan-667b10439/)
-- **GitHub:** [XuanDongVo](https://github.com/XuanDongVo)
+[View Source](https://github.com/XuanDongVo/Rental-Home)
 
 ---
 
 <div align="center">
-  <sub>Designing, building, and learning — one project at a time.</sub>
+
+### Let's Connect
+
+**Interested in backend engineering, full-stack development, and building useful software.**
+
+[LinkedIn](https://www.linkedin.com/in/dong-vo-xuan-667b10439/) ·
+[Email](mailto:voxuandong14052004@gmail.com)
+
+<sub>Designed & maintained by Vo Xuan Dong</sub>
+
 </div>
